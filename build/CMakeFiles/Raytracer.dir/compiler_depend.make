@@ -18,7 +18,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_string.tcc \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/char_traits.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/charconv.h \
-  C:/msys64/ucrt64/include/c++/15.2.0/bits/codecvt.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/concept_check.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/cpp_type_traits.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/cxxabi_forced.h \
@@ -26,7 +25,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/c++/15.2.0/bits/exception.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_defines.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_ptr.h \
-  C:/msys64/ucrt64/include/c++/15.2.0/bits/fstream.tcc \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/functexcept.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/functional_hash.h \
   C:/msys64/ucrt64/include/c++/15.2.0/bits/hash_bytes.h \
@@ -75,7 +73,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/c++/15.2.0/cmath \
   C:/msys64/ucrt64/include/c++/15.2.0/concepts \
   C:/msys64/ucrt64/include/c++/15.2.0/cstddef \
-  C:/msys64/ucrt64/include/c++/15.2.0/cstdint \
   C:/msys64/ucrt64/include/c++/15.2.0/cstdio \
   C:/msys64/ucrt64/include/c++/15.2.0/cstdlib \
   C:/msys64/ucrt64/include/c++/15.2.0/cwchar \
@@ -88,7 +85,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/c++/15.2.0/ext/numeric_traits.h \
   C:/msys64/ucrt64/include/c++/15.2.0/ext/string_conversions.h \
   C:/msys64/ucrt64/include/c++/15.2.0/ext/type_traits.h \
-  C:/msys64/ucrt64/include/c++/15.2.0/fstream \
   C:/msys64/ucrt64/include/c++/15.2.0/initializer_list \
   C:/msys64/ucrt64/include/c++/15.2.0/ios \
   C:/msys64/ucrt64/include/c++/15.2.0/iosfwd \
@@ -120,10 +116,8 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/c++/15.2.0/type_traits \
   C:/msys64/ucrt64/include/c++/15.2.0/typeinfo \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/basic_file.h \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
-  C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++io.h \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
   C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -158,7 +152,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/include/sec_api/wchar_s.h \
   C:/msys64/ucrt64/include/signal.h \
   C:/msys64/ucrt64/include/stddef.h \
-  C:/msys64/ucrt64/include/stdint.h \
   C:/msys64/ucrt64/include/stdio.h \
   C:/msys64/ucrt64/include/stdlib.h \
   C:/msys64/ucrt64/include/swprintf.inl \
@@ -171,7 +164,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
-  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
   C:/Users/fulls/OneDrive/Desktop/VSCode/C++/Raytracer/color.h \
   C:/Users/fulls/OneDrive/Desktop/VSCode/C++/Raytracer/ray.h \
@@ -179,8 +171,6 @@ CMakeFiles/Raytracer.dir/main.cpp.obj: C:/Users/fulls/OneDrive/Desktop/VSCode/C+
 
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/memory_resource.h:
-
-C:/msys64/ucrt64/include/stdint.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/ext/string_conversions.h:
 
@@ -236,13 +226,9 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/new_allocator.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_string.tcc:
 
+C:/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h:
+
 C:/msys64/ucrt64/include/c++/15.2.0/bits/charconv.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/codecvt.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/postypes.h:
 
@@ -271,10 +257,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/exception.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_ptr.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_algobase.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/fstream.tcc:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_construct.h:
 
@@ -322,6 +304,12 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/range_access.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h:
 
+C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_algobase.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator.h:
+
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator_base_types.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_pair.h:
@@ -331,8 +319,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/string_view.tcc:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stringfwd.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h:
 
 C:/msys64/ucrt64/include/corecrt.h:
 
@@ -351,10 +337,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/cmath:
 C:/msys64/ucrt64/include/c++/15.2.0/concepts:
 
 C:/msys64/ucrt64/include/c++/15.2.0/cstddef:
-
-C:/msys64/ucrt64/include/pthread_unistd.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/cstdint:
 
 C:/Users/fulls/OneDrive/Desktop/VSCode/C++/Raytracer/vec3.h:
 
@@ -379,8 +361,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/tr1/modified_bessel_func.tcc:
 C:/msys64/ucrt64/include/c++/15.2.0/ext/numeric_traits.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/ext/type_traits.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/fstream:
 
 C:/msys64/ucrt64/include/c++/15.2.0/initializer_list:
 
@@ -430,15 +410,11 @@ C:/msys64/ucrt64/include/c++/15.2.0/typeinfo:
 
 C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h:
 
-C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/basic_file.h:
-
 C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h:
 
 C:/msys64/ucrt64/include/corecrt_stdio_config.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++io.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h:
 
@@ -486,6 +462,8 @@ C:/msys64/ucrt64/include/pthread_signal.h:
 
 C:/msys64/ucrt64/include/pthread_time.h:
 
+C:/msys64/ucrt64/include/pthread_unistd.h:
+
 C:/msys64/ucrt64/include/sched.h:
 
 C:/msys64/ucrt64/include/sdks/_mingw_ddk.h:
@@ -519,8 +497,6 @@ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h:
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h:
 
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h:
-
-C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
 
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
 
