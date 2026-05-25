@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.7)
+project(Raytracer)
+
+set(SOURCES main.cpp)
+add_executable(${PROJECT_NAME} ${SOURCES})
